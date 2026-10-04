@@ -1,0 +1,13 @@
+Program Methods:
+
+*'For this first task, only Replacing books will be implemented – disable the other two 
+options for now'
+
+This will involve a linked list.
+'linked list' method.
+
+*'When the user selects Replacing books, the application shall randomly generate 10
+different call numbers, and display them to the user.'
+
+This will involve a a 'appropriate sorting algorithm'.
+'algorith class' method.
